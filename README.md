@@ -1,1 +1,1 @@
-# spring5webapp updated up to the Thymeleaf topics
+# spring5webapp updated up to the Thymeleaf Templates lecture
